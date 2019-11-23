@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: yuzf
+    password: Yuzf*333
+    url: jdbc:mysql://192.168.1.114/test?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
+
